@@ -1,4 +1,4 @@
-### ミラクル
+### 祝福者
 # クラス: プリースト
 # フォーマット: スタンダード
 # マンモス年
@@ -18,9 +18,10 @@
 # 2x (3) 苦痛の侍祭
 # 1x (4) トートランのシェルレイザー
 # 1x (4) 宴のプリースト
+# 1x (5) 先遣隊長エリーズ
 # 1x (5) 太陽の砕片ライラ
-# 2x (12) 魔力の巨人
+# 1x (12) 魔力の巨人
 # 
-AAECAa0GBKUJkrQC3MECvsgCDfgC5QT2B9EK0gryDPsMgrQCtbsC8LsC0cEC2MECysMCAA==
+AAECAa0GBqUJgrQCkrQC3MECz8cCvsgCDPgC5QT2B9EK0gryDPsMtbsC8LsC0cEC2MECysMCAA==
 # 
 # このデッキを使うには、あんたのクリップボードにコピーして、ハースストーンで新しいデッキを作ってくれ
