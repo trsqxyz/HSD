@@ -16,12 +16,11 @@
 # 2x (3) カバールのカギ爪のプリースト
 # 2x (3) タール・クリーパー
 # 2x (3) 苦痛の侍祭
-# 1x (4) トートランのシェルレイザー
 # 1x (4) 宴のプリースト
-# 1x (5) グルバシの狂戦士
+# 2x (5) グルバシの狂戦士
+# 1x (5) 先遣隊長エリーズ
 # 1x (5) 太陽の砕片ライラ
-# 1x (12) 魔力の巨人
 # 
-AAECAa0GBoAGpQmCtAKStALcwQK+yAIM+ALlBPYH0QrSCvIM+wy1uwLwuwLRwQLYwQLKwwIA
+AAECAa0GBKUJkrQCz8cCvsgCDfgC5QSABvYH0QrSCvIM+wy1uwLwuwLRwQLYwQLKwwIA
 # 
 # このデッキを使うには、あんたのクリップボードにコピーして、ハースストーンで新しいデッキを作ってくれ
