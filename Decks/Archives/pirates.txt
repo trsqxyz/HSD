@@ -10,16 +10,16 @@
 # 2x (2) ヒロイック・ストライク
 # 2x (2) ブラッドセイルの略奪者
 # 2x (2) 烈火の戦斧
-# 2x (3) シールドブロック
 # 2x (3) ブラッドセイルの狂信者
+# 2x (3) 南海の船長
 # 2x (3) 泡を吹く狂戦士
-# 2x (4) コルクロンの精鋭
 # 2x (4) ナーガの海賊
+# 2x (4) ぶんどり幽霊船員
 # 2x (4) 必殺の一撃
 # 2x (4) 悪辣なる海賊
 # 2x (5) アルカナイト・リーパー
 # 1x (5) リロイ・ジェンキンス
 # 
-AAECAQcCrwSRvAIOHLACkQP/A44F1AWkBu4G5wfvB/8HgrACiLACub8CAA==
+AAECAQcCrwSRvAIOsAKRA/8DjgWoBdQFpAbuBucH7weCsAKIsAK5vwLXygIA
 # 
 # このデッキを使うには、あんたのクリップボードにコピーして、ハースストーンで新しいデッキを作ってくれ
